@@ -1,0 +1,19 @@
+#contact-form {
+    min-height: 86vh;
+    width: 100%;
+}
+
+textarea {
+    resize: none;
+    height: 35%;
+}
+
+#submit {
+    width: 100%;
+}
+
+form {
+    /*position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);*/
+}
